@@ -1,0 +1,11 @@
+c:\users\user\source\repos\WebAppAspNet\WebAppAspNet\bin\Debug\netcoreapp2.0\WebAppAspNet.deps.json
+c:\users\user\source\repos\WebAppAspNet\WebAppAspNet\bin\Debug\netcoreapp2.0\WebAppAspNet.runtimeconfig.json
+c:\users\user\source\repos\WebAppAspNet\WebAppAspNet\bin\Debug\netcoreapp2.0\WebAppAspNet.runtimeconfig.dev.json
+c:\users\user\source\repos\WebAppAspNet\WebAppAspNet\bin\Debug\netcoreapp2.0\WebAppAspNet.dll
+c:\users\user\source\repos\WebAppAspNet\WebAppAspNet\bin\Debug\netcoreapp2.0\WebAppAspNet.pdb
+c:\users\user\source\repos\WebAppAspNet\WebAppAspNet\obj\Debug\netcoreapp2.0\WebAppAspNet.csprojResolveAssemblyReference.cache
+c:\users\user\source\repos\WebAppAspNet\WebAppAspNet\obj\Debug\netcoreapp2.0\WebAppAspNet.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\WebAppAspNet\WebAppAspNet\obj\Debug\netcoreapp2.0\WebAppAspNet.AssemblyInfoInputs.cache
+c:\users\user\source\repos\WebAppAspNet\WebAppAspNet\obj\Debug\netcoreapp2.0\WebAppAspNet.AssemblyInfo.cs
+c:\users\user\source\repos\WebAppAspNet\WebAppAspNet\obj\Debug\netcoreapp2.0\WebAppAspNet.dll
+c:\users\user\source\repos\WebAppAspNet\WebAppAspNet\obj\Debug\netcoreapp2.0\WebAppAspNet.pdb
