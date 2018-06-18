@@ -19,8 +19,8 @@ namespace WebAppAspNet.Data
 
             var appointments = new Appointment[]
             {
-                new Appointment{DateCteate = DateTime.Parse("2018-09-15"), DateEndOfActuality = DateTime.Parse("2020-09-15"),CategoryId = 1, Description = "Description"},
-                new Appointment{DateCteate = DateTime.Parse("2018-02-18"), DateEndOfActuality = DateTime.Parse("2021-09-15"),CategoryId = 1, Description = "Description1"}
+                new Appointment{DateCteate = DateTime.Parse("2018-09-01"), DateEndOfActuality = DateTime.Parse("2020-09-01"),CategoryId = 0, Description = "Description"},
+                new Appointment{DateCteate = DateTime.Parse("2018-02-01"), DateEndOfActuality = DateTime.Parse("2021-09-01"),CategoryId = 0, Description = "Description1"}
             };
             foreach (Appointment ap in appointments)
             {
