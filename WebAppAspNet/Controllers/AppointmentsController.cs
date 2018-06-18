@@ -22,7 +22,7 @@ namespace WebAppAspNet.Controllers
         // GET: Appointments
         public async Task<IActionResult> Index()
         {
-            var appointmentContext = _context.Appointment.Include(a => a.Category).Where(b => b.DateEndOfActuality > DateTime.Now );
+            var appointmentContext = _context.Appointment.Include(a => a.Category).Where(b => b.DateEndOfActuality >= DateTime.Now);
             return View(await appointmentContext.ToListAsync());
         }
 

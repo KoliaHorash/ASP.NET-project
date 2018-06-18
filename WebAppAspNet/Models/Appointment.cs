@@ -13,11 +13,11 @@ namespace WebAppAspNet.Models
         public int ID { get; set; }
         public DateTime DateCteate {
             get {return dateCreate.Date; }
-            set {dateCreate = value; }
+            set {dateCreate = value.Date; }
         }
         public DateTime DateEndOfActuality {
             get {return dateEndOfActuality.Date; }
-            set {dateEndOfActuality = value; }
+            set {dateEndOfActuality = value.Date; }
         }
         public int CategoryId { get; set; }
         public string Description { get; set; }
